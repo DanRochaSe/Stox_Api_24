@@ -1,0 +1,8 @@
+appsettings.Development.json
+appsettings.json
+StoxPrediction.mbconfig
+webapi.csproj
+webapi.csproj.user
+/obj
+/bin
+/Migrations
